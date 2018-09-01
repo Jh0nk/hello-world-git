@@ -2,4 +2,4 @@
 
 Description
 -------------
-[enlace][http://jhoncmc.blogspot.com/]
+[visita mi blog]http://jhoncmc.blogspot.com/
